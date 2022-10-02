@@ -29,11 +29,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](/assets/solution/card-form-desktop.png)
+![](./public/assets/solution/card-form-desktop.png)
 
-![](/assets/solution/card-form-mobile.png)
+![](./public/assets/solution/card-form-mobile.png)
 
-![](/assets/solution/submitted-mobile.png)
+![](./public/assets/solution/submitted-mobile.png)
 
 ### Links
 
